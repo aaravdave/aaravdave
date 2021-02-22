@@ -1,5 +1,4 @@
-# DScript
-## Now supporting if conditions.
+# DScript: Now supporting if conditions.
 DScript is now supporting if conditions. Download now!  
 ***
 ### Welcome to my profile! 👋
