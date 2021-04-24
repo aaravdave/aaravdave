@@ -7,5 +7,5 @@ I'm Aarav. I am a Python developer, but I also know web languages like HTML, CSS
 ![](https://img.shields.io/badge/Editor-PyCharm&nbsp;-informational?style=flat&logo=pycharm&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=terminal&logoColor=blue&color=0C7DBE)
 
-[![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravdave)](https://github.com/aaravdave/github-readme-stats)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aaravdave&theme=github)
+[![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravdave)](https://github.com/aaravdave/github-readme-stats)
