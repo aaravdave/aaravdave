@@ -11,5 +11,5 @@ I'm Aarav. I am a Python developer, but I also know web languages like HTML, CSS
 [![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravdave)](https://github.com/aaravdave/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravdave&layout=compact"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaravdave&column=7&theme=onedark" />
 </div>
