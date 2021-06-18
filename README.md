@@ -1,6 +1,6 @@
 ## DScript is now supporting if conditions. [Download now](https://github.com/aaravdave/DScript)! 
 ### Welcome to my profile! 👋
-I'm Aarav. I am a Python developer, but I also know web languages like HTML, CSS, and JavaScript, and also C, C++, Ruby, PHP, Java, C#, and Kotlin. I am currently working on Flutter apps and learning the basic syntax of Dart. If you have any suggestions for products or improvments, tell me here! You can also download softwares here.
+I'm Aarav. I am a Python developer, but I also know web languages like HTML, CSS, and JavaScript, and also C, C++, C#, Bash, Ruby, PHP, Java, and Kotlin. I am currently working on Flutter apps and learning the basic syntax of Dart. If you have any suggestions for products or improvments, tell me here! You can also download softwares here.
 
 ![](https://komarev.com/ghpvc/?username=aaravdave&color=blue) 
 ![](https://img.shields.io/badge/OS-macOS&nbsp;11-informational?style=flat&logo=mac&logoColor=blue&color=0C7DBE)
