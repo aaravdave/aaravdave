@@ -4,7 +4,7 @@
 ### NEXT-3D: A Simulation-Based Approach to Nanoparticle Design for Targeted Glioblastoma Multiforme Thermotherapy
 [[Website]](https://next-3d.com) [[GitHub]](https://next-3d.com)
 ### Glioblasted: Histological Image Classification for Glioblastoma Multiforme Detection
-[[GitHub]](https://github.com/aaravdave/Glioblasted)
+[[GitHub]](https://github.com/aaravdave/Glioblasted-Prototype)
 ### p3D: A Fully-Featured, Pythonic 3-D Engine
 [[GitHub]](https://github.com/aaravdave/p3D) [[PyPI]](https://pypi.org/project/python3D/)
 ##
