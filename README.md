@@ -1,7 +1,7 @@
 <div align="center">
   
 # Aarav Dave
-### NEXT-3D: A Simulation-Based Approach to Nanoparticle Design for Targeted Glioblastoma Multiforme Thermotherapy
+### NEXT 3D: A Simulation-Based Approach to Nanoparticle Design for Targeted Glioblastoma Multiforme Thermotherapy
 [[Website]](https://next-3d.com) [[GitHub]](https://next-3d.com)
 ### Glioblasted: Histological Image Classification for Glioblastoma Multiforme Detection
 [[GitHub]](https://github.com/aaravdave/Glioblasted-Prototype)
